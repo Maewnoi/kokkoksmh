@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Butterfly Bootstrap Template - Index</title>
+  <title>KOKKOK SMART HOME</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -47,15 +47,21 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1>KoK KoK Smart Home</h1>
+        <Center> <img src="assets/img/logo.png" style="width: 200px; height:auto;"> </center> 
+      </br>
+      </br>
+        <span style="color:#0078E7;"> 
+    <h1> <span style="color:#0078E7;">KOKOK SMART HOME </h1>
+</span>
           <h2>จำหน่ายและติดตั้ง อุปกรณ์ SMART HOME ครบวงจร</h2>
           <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img">
-          <img src="assets/img/1126116.jpg" class="img-fluid" alt="">
+          <img src="assets/img/Google nest mini 2ND GENERATION_01.jpg"   style="width: 950px; height:auto;">
         </div>
       </div>
     </div>
+    
 
   </section><!-- End Hero -->
 
@@ -73,7 +79,7 @@
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
             <h3>KoK KoK Smart Home</h3>
             <p>จำหน่ายและติดตั้ง อุปกรณ์ SMART HOME ครบวงจร</p>
-            <p>เปลี่ยนบ้านคุณให้ฉลาดกว่าเดิม ตั้งแต่หน้าประตู</p>
+            <p>UPGRADE YOUR HOME TO BETTER </p>
 
             <div class="icon-box">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
@@ -200,55 +206,41 @@
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>....</p>
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6">
+          <!-- col-lg-3 แบ่งคอร์ลัม 1 แถวจะแบ่งรวมกันได้ 12 ขนาด 3 * 4 บล็อก = 12 -->
+          <div class="col-lg-3 col-md-6">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-cash-stack" style="color: #ff689b;"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">งานติดตั้งอุปกรณ์สมาร์ทโฮม</a></h4>
+              <p class="description">...</p>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-calendar4-week" style="color: #e9bf06;"></i></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
+              <h4 class="title"><a href="">ให้คำปรึกษา ออกแบบเพื่อความเหมาะสมกับการใช้งานภายในบ้าน</a></h4>
               <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6" data-wow-delay="0.1s">
+          <div class="col-lg-3 col-md-6" data-wow-delay="0.1s">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-chat-text" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+              <h4 class="title"><a href="">การรับประกัน</a></h4>
               <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6" data-wow-delay="0.1s">
+          <div class="col-lg-3 col-md-6" data-wow-delay="0.1s">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-credit-card-2-front" style="color:#41cf2e;"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <h4 class="title"><a href="">คู่มือ</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6" data-wow-delay="0.2s">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-globe" style="color: #d6ff22;"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6" data-wow-delay="0.2s">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-clock" style="color: #4680ff;"></i></div>
-              <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-            </div>
-          </div>
-        </div>
 
       </div>
     </section><!-- End Services Section -->
@@ -265,31 +257,50 @@
         <div class="row">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">All PRODUCT</li>
+              <li data-filter=".filter-camera">CAMERA</li>
+              <li data-filter=".filter-control">CONTROL</li>
+              <li data-filter=".filter-sensor">SENSOR</li>
+              <li data-filter=".filter-pet">PET</li>
+              <li data-filter=".filter-digitaldoorlock">Digital Door Lock</li>
             </ul>
           </div>
         </div>
 
         <div class="row portfolio-container">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-camera">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <!-- link image-->
+              <img src="assets/img/Camera/01-Smartwifi camwi02.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 1</h4>
                 <p>App</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/Camera/01-Smartwifi camwi02.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <!-- ชื่อไฟล์ลิ้งค์ไปดูรายละเอียด-->
+                  <a href="camere-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-camera">
+            <div class="portfolio-wrap">
+
+              <img src="assets/img/Camera/01-Smartwifi camwi02.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 1</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/Camera/01-Smartwifi camwi02.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-control">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -303,7 +314,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-camera">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -317,7 +328,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sensor">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -331,7 +342,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-pet">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -345,7 +356,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-pet">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -359,7 +370,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-digitaldoorlock">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -373,7 +384,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-digitaldoorlock">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -387,7 +398,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-digitaldoorlock">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -663,7 +674,7 @@
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/@16.4115722,102.8097798,17.79z?authuser=0" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="row mt-5">
@@ -673,19 +684,19 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>347 หมู่9 ถนนเหล่านาดี ตำบลบ้านเป็ด อำเภอเมืองขอนแก่น จังหวัดขอนแก่น 40000</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>surachai@accessone.co.th</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+66 043 468 768 </p>
               </div>
 
             </div>
@@ -750,11 +761,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Butterfly</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              374 หมู่ 9 ถนนเหล่านาดี <br>
+              ตำบลบ้านเป็ด อำเภอเมืองขอนแก่น<br>
+              จังหวัดขอนแก่น 40000 <br>
+              <strong>Phone:</strong> +66 043 468 768<br>
+              <strong>Email:</strong> surachai@accessone.co.th<br>
             </p>
           </div>
 
